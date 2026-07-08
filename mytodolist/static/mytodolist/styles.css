@@ -1,5 +1,5 @@
 body {
-	background: #3399ff;
+	background: #1180ef;
 	font-family: 'Oswald', 'Futura', sans-serif;
 }
 #wrapper {
@@ -9,7 +9,7 @@ body {
 	background:#ffff99;
 	padding: 25px;
 }
-#content > h2 {
+#content h1 {
 	font-size: 18px;
 	text-align: center;
 	padding-top: 0;
